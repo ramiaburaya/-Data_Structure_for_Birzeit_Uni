@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+.button{
+    -fx-background-color: transparent;
+    -fx-border-color: #40DFEF;
+    -fx-border-radius: 3px;
+    -fx-font-size: 13;
+    -fx-alignment: center;
+}
+
+
+.button:hover{
+    -fx-background-color: #40DFEF;
+}
+
+.button:pressed{
+    -fx-background-color: #40DFEF;
+}
