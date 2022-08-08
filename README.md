@@ -1,4 +1,4 @@
-# In this Project i simulate a efficient program for my university used in Departments to manage their student data. I learned how to build the AVL tree and Hash Table from scratch and do simple operations on them like add, delete, search and display information's\
+#  Data Structure for Birzeit University
 
 
 
